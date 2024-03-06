@@ -45,3 +45,5 @@ const calPoints = function(operations) {
 }
 
 calPoints(["5", "2", "C", "D", "+"])
+
+module.exports = calPoints;
